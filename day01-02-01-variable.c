@@ -8,6 +8,7 @@
 
     변수 선언 및 초기화 
         자료형 변수명 = 값;
+        0.
 
     변수명 규칙
         알파벳, 숫자, 언더바(_) 로만 구성.
@@ -35,6 +36,8 @@ int main(void){
             Ctrl + Shift + k(줄삭제)
         */
         printf("%d\n", number1);
+
+        
         printf("%d\n", number2);
         printf("%d\n", number3);
         printf("%d\n", number4);
